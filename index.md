@@ -1,15 +1,13 @@
 ---
 layout: about
-title: Gabriel Alcaras
-permalink: /fr/
+title: Siddhant Garg
+permalink: 
 invisible: true
 seo:
-  title: Gabriel Alcaras, sociologue
+  title: Siddhant Garg, Introduction
 ---
+I am a second year graduate student at the University of Wisconsin-Madison pursuing my Masters in Computer Science. I am working with Prof. Yingyu Liang on Natural Language Processing. In specific, I am working on transfer learning for text classification and adversarial NLP.
 
-Sociologue, je me spécialise dans les questions numériques et les méthodes quantitatives.
+I pursued my summer internship as an Applied Scientist Intern at Amazon Alexa, Los Angeles where I was guided by Alessandro Moschittti. My work involved developping a new technique for using pre-trained transformer models for answer sentence selection in Question-Answering.
 
-Je suis actuellement doctorant en sociologie, sous la direction d'[Emmanuel Didier](http://epidapo.ucla.edu/people/emmanuel-didier-phd) ([CMH](https://www.cmh.ens.fr/), ENS-EHESS-CNRS) et de [Christophe Prieur](http://ses.telecom-paristech.fr/en/membres/christophe-prieur/) ([i3](http://www.i-3.fr/), Télécom ParisTech).
-Ma thèse porte sur la socio-histoire de [git](https://git-scm.com/), un outil de collaboration destiné aux programmeurs.
-
-Ancien élève de l'[École normale supérieure](http://ens.fr) de Paris, je suis diplômé des masters [Pratiques De l'Interdisciplinarité](http://www.master-ett.ens.fr/index.php) (ENS-EHESS) et [Sociologie et Statistiques](http://www.master-socstat.ens.fr/) (ENS-EHESS-ENSAE).
+I completed my Bachelors of Technology in Computer Science and Engineering with Honors from the Indian Institute of Technology (IIT) Bombay, India in 2018 with a CGPA of 9.59/10. I completed a minor in Applied Statistics and Informatics during my Bachelors.
