@@ -1,18 +1,17 @@
 # General settings
 title: Siddhant Garg
-title_html: "<b>ga</b>briel<b><span class=\"invisible\"> </span>alcaras</b>"
+title_html: "Siddhant Garg"
 description:
-  fr: Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques et des méthodes quantitatives.
   en: Gabriel Alcaras is a PhD student in sociology, mostly working on digital issues and quantitative methods.
 baseurl: ""
 url: "https://sid7954.github.io"
 
-langs: ["fr", "en"]
+langs: ["en"]
 defaults:
   - scope:
       path: ""
     values:
-      lang: "fr"
+      lang: "en"
 
 # Author
 author: Siddhant Garg
@@ -20,8 +19,7 @@ author: Siddhant Garg
 email: sid7954@gmail.com
 twitter_username: sid7954
 github_username: sid7954
-keybase_username: gaalcaras
-linkedin_username: gaalcaras
+linkedin_username: siddhant-garg-898253a6
 curriculum:
   url: assets/cv_gaalcaras.pdf
 
@@ -29,7 +27,6 @@ curriculum:
 nav_ext_links:
   - name: Blog
     url:
-      fr: https://sociologs.com/fr/
       en: https://sociologs.com/en/
 
 # Piwik
