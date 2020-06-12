@@ -15,14 +15,13 @@ defaults:
       lang: "fr"
 
 # Author
-author: Gabriel Alcaras
+author: Siddhant Garg
 
-email: gabriel.alcaras@ehess.fr
-twitter_username: gaalcaras
-github_username: gaalcaras
+email: sid7954@gmail.com
+twitter_username: sid7954
+github_username: sid7954
 keybase_username: gaalcaras
 linkedin_username: gaalcaras
-author_website: https://sociologs.com
 curriculum:
   url: assets/cv_gaalcaras.pdf
 
