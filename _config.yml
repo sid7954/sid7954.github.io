@@ -1,0 +1,56 @@
+# General settings
+title: Gabriel Alcaras
+title_html: "<b>ga</b>briel<b><span class=\"invisible\"> </span>alcaras</b>"
+description:
+  fr: Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques et des méthodes quantitatives.
+  en: Gabriel Alcaras is a PhD student in sociology, mostly working on digital issues and quantitative methods.
+baseurl: ""
+url: "https://gaalcaras.com"
+
+langs: ["fr", "en"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "fr"
+
+# Author
+author: Gabriel Alcaras
+
+email: gabriel.alcaras@ehess.fr
+twitter_username: gaalcaras
+github_username: gaalcaras
+keybase_username: gaalcaras
+linkedin_username: gaalcaras
+author_website: https://sociologs.com
+curriculum:
+  url: assets/cv_gaalcaras.pdf
+
+# Nav menu
+nav_ext_links:
+  - name: Blog
+    url:
+      fr: https://sociologs.com/fr/
+      en: https://sociologs.com/en/
+
+# Piwik
+piwik:
+  url: batcloud.me/piwik
+  site_id: 2
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock
