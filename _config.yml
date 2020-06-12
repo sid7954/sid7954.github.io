@@ -1,7 +1,6 @@
 # General settings
 title: Siddhant Garg
 title_html: "Siddhant Garg"
-baseurl: ""
 url: "https://sid7954.github.io"
 
 # Author
@@ -13,19 +12,6 @@ github_username: sid7954
 linkedin_username: siddhant-garg
 googlescholar : "https://scholar.google.com/citations?user=V02t618AAAAJ&hl=en&oi=ao"
 dblp : "https://dblp.org/pers/hd/g/Garg:Siddhant"
-curriculum:
-  url: assets/cv_gaalcaras.pdf
-
-# Nav menu
-nav_ext_links:
-  - name: Blog
-    url:
-      en: https://sociologs.com/en/
-
-# Piwik
-piwik:
-  url: batcloud.me/piwik
-  site_id: 2
 
 # Favicon
 favicon:
