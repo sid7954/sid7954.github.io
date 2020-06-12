@@ -43,7 +43,7 @@ favicon:
   theme: ffffff
 
 # Build settings
-theme: academic
+remote_theme: sid7954/academic
 gems:
   - jekyll-feed
 exclude:
