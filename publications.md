@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ### Conference Publications
 
-#### Surprisingly Easy Hard-Attention for Sequence to Sequence Learning
+#### * Surprisingly Easy Hard-Attention for Sequence to Sequence Learning
 
 Shiv Shankar*, Siddhant Garg*, Sunita Sarawagi <br />
 EMNLP· **2018**<br />
