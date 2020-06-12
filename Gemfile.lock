@@ -10,10 +10,10 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.2)
-    ffi (1.9.17)
+    ffi (1.9.24)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-    jekyll (3.3.0)
+    jekyll (3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -57,7 +57,7 @@ PLATFORMS
 
 DEPENDENCIES
   academic
-  jekyll (= 3.3.0)
+  jekyll (= 3.6.3)
   jekyll-data
   jekyll-feed (~> 0.6)
   jekyll-livereload
