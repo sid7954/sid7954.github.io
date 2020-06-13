@@ -27,16 +27,30 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 
 ### Pre-Prints
 
+#### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
+**Siddhant Garg\***, Goutham Ramakrishnan \* <br />
+[[Paper]](https://arxiv.org/pdf/2005.04316.pdf){:target="_blank"} <br />
 
+#### [SimpleTran: Transferring Pre-Trained Sentence Embeddings for Low Resource Text Classification](https://arxiv.org/abs/2004.05119){:target="_blank"}
+**Siddhant Garg\***, Rohit Kumar Sharma \* , Yingyu Liang<br />
+[[Paper]](https://arxiv.org/pdf/2004.05119.pdf){:target="_blank"} <br />
+
+#### [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970){:target="_blank"}
+**Siddhant Garg\***, Goutham Ramakrishnan \* <br />
+[[Paper]](https://arxiv.org/pdf/2004.01970.pdf){:target="_blank"} [[Blog]](https://medium.com/@tinahuang962/adversarial-examples-in-nlp-using-bert-based-attacks-4a702fc33345){:target="_blank"}<br />
+
+#### [Data Ordering Patterns for Neural Machine Translation: An Empirical Study](https://arxiv.org/abs/1909.10642){:target="_blank"}
+**Siddhant Garg** <br />
+[[Paper]](https://arxiv.org/pdf/1909.10642.pdf){:target="_blank"} <br />
 
 ### Thesis
 
 #### [Understanding Representation Learning Paradigms with Applications to Low Resource Text Classification](https://minds.wisconsin.edu/handle/1793/80196){:target="_blank"}
 Master's Thesis, University of Wisconsin-Madison <br />
-**Guide: Prof. Yingyu Liang** <br />
+**Advisor: Yingyu Liang** <br />
 [[Thesis]](https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y){:target="_blank"} <br />
 
 #### [Structured Attention Sequence to Sequence Models](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"}
 Bachelor's Thesis, Indian Institute of Technology (IIT) Bombay <br />
-**Guide: Prof. Sunita Sarawagi** <br />
+**Advisor: Sunita Sarawagi** <br />
 [[Thesis]](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/1zCFnZ2PeFDFRxFOn36ui5y6I86zfS9qp9KwdePaCQ6M/edit?usp=sharing){:target="_blank"} <br />
