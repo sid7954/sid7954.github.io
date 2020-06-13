@@ -43,7 +43,7 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 **Siddhant Garg** , **2019**<br />
 [[Paper]](https://arxiv.org/pdf/1909.10642.pdf){:target="_blank"} <br />
 
-### Thesis
+### Theses
 
 #### [Understanding Representation Learning Paradigms with Applications to Low Resource Text Classification](https://minds.wisconsin.edu/handle/1793/80196){:target="_blank"}
 Master's Thesis, University of Wisconsin-Madison, **2020** <br />
