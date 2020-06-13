@@ -12,7 +12,7 @@ dblp : "https://dblp.org/pers/hd/g/Garg:Siddhant"
 
 nav_ext_links:
   - name: CV
-    url: cv.pdf
+    url: "https://sid7954.github.io/cv.pdf"
 
 # Favicon
 favicon:
