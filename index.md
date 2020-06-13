@@ -6,4 +6,4 @@ invisible: true
 seo:
   title: Siddhant Garg
 ---
-I am a second year graduate student at the University of Wisconsin-Madison pursuing my Masters in Computer Science. I am working with Prof. Yingyu Liang on Natural Language Processing. In specific, I am working on transfer learning for text classification and adversarial NLP.
+I recently graduated with a Masters in Computer Science from the University of Wisconsin-Madison in May 2020. I completed my Masters Thesis under the guidance of Prof. Yingyu Liang on representation learning paradigms and their application to text classification. Prior to this, I completed my Bachelors in Co.mputer Science and Engineering from IIT Bombay in August 2018 where I was advised by Prof. Sunita Sarawagi.
