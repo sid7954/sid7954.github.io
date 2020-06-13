@@ -24,3 +24,19 @@ permalink: /publications/
 Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 **EMNLP 2018** (<span style="color:red">*Oral Presentation*</span>)<br />
 [[Paper]](https://www.aclweb.org/anthology/D18-1065.pdf){:target="_blank"} [[Code]](https://github.com/sid7954/beam-joint-attention){:target="_blank"} [[Video]](https://vimeo.com/305212816){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1C40lIuYhRhE3xvWAKlQXLS4nKCZFMu-f/view?usp=sharing){:target="_blank"} <br />
+
+### Pre-Prints
+
+
+
+### Thesis
+
+#### [Understanding Representation Learning Paradigms with Applications to Low Resource Text Classification](https://minds.wisconsin.edu/handle/1793/80196){:target="_blank"}
+Master's Thesis, University of Wisconsin-Madison <br />
+**Guide: Prof. Yingyu Liang** <br />
+[[Thesis]](https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y){:target="_blank"} <br />
+
+#### [Structured Attention Sequence to Sequence Models](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"}
+Bachelor's Thesis, Indian Institute of Technology (IIT) Bombay <br />
+**Guide: Prof. Sunita Sarawagi** <br />
+[[Thesis]](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/1zCFnZ2PeFDFRxFOn36ui5y6I86zfS9qp9KwdePaCQ6M/edit?usp=sharing){:target="_blank"} <br />
