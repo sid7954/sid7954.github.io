@@ -15,7 +15,7 @@ I recently graduated with a Masters in Computer Science from the University of W
 <col width="100px">
 <col width="650px">
 <tr><td><b>May 2020:</b></td><td> <a href="https://arxiv.org/abs/2005.04316">Survey</a> on advances in Quantum Deep Learning released</td></tr>
-<tr><td><b>May 2020:</b></td><td> Defended my <a href="https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y">Master's Thesis</a> on representation learning paradigms </td></tr>
+<tr><td><b>May 2020:</b></td><td> Defended my <a href="https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y">Master's Thesis</a> on representation learning paradigms and their application to text classification </td></tr>
 <tr><td><b>April 2020:</b></td><td> <a href="https://arxiv.org/abs/2004.05119">Pre-print</a> on fine-tuning BERT for data scarce text classification released</td></tr>
 <tr><td><b>April 2020:</b></td><td> <a href="https://arxiv.org/abs/2004.01970">Pre-print</a> on generating adversarial examples for NLP using BERT released</td></tr>
 <tr><td><b>Feb 2020:</b></td><td> Presented our <a href="https://arxiv.org/abs/1911.04118">paper</a> on transformers for answer selection at AAAI 2020, New York City </td></tr>
