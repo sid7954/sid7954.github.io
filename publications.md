@@ -28,19 +28,19 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 ### Pre-Prints
 
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan \* <br />
+**Siddhant Garg\***, Goutham Ramakrishnan \* **2020** <br />
 [[Paper]](https://arxiv.org/pdf/2005.04316.pdf){:target="_blank"} <br />
 
 #### [SimpleTran: Transferring Pre-Trained Sentence Embeddings for Low Resource Text Classification](https://arxiv.org/abs/2004.05119){:target="_blank"}
-**Siddhant Garg\***, Rohit Kumar Sharma \* , Yingyu Liang<br />
+**Siddhant Garg\***, Rohit Kumar Sharma \* , Yingyu Liang **2020**<br />
 [[Paper]](https://arxiv.org/pdf/2004.05119.pdf){:target="_blank"} <br />
 
 #### [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan \* <br />
+**Siddhant Garg\***, Goutham Ramakrishnan \* **2020** <br />
 [[Paper]](https://arxiv.org/pdf/2004.01970.pdf){:target="_blank"} [[Blog]](https://medium.com/@tinahuang962/adversarial-examples-in-nlp-using-bert-based-attacks-4a702fc33345){:target="_blank"}<br />
 
 #### [Data Ordering Patterns for Neural Machine Translation: An Empirical Study](https://arxiv.org/abs/1909.10642){:target="_blank"}
-**Siddhant Garg** <br />
+**Siddhant Garg** **2019**<br />
 [[Paper]](https://arxiv.org/pdf/1909.10642.pdf){:target="_blank"} <br />
 
 ### Thesis
