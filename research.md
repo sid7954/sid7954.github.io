@@ -65,6 +65,6 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 [Fall 2015] BB101: Introduction to Biology, Soumyo Mukherjee, IIT Bombay <br />
 
 ### Academic Service
-Served as a reviewer for the following conferences:
-**2020:** ACL , EMNLP , NeurIPS
-**2019** EMNLP , AAAI
+Served as a reviewer for the following conferences: <br />
+**2020:** ACL , ESANN, EMNLP , NeurIPS <br />
+**2019** EMNLP , AAAI.  <br />
