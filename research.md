@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /publications/
+permalink: /research/
 ---
 ### Conference Publications
 
@@ -56,10 +56,15 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 [[Thesis]](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/1zCFnZ2PeFDFRxFOn36ui5y6I86zfS9qp9KwdePaCQ6M/edit?usp=sharing){:target="_blank"} <br />
 
 
-### Teaching and Service
+### Teaching
 
-[Fall 2018] CS540: Artificial Intelligence, UW Madison <br />
-[Spring 2018] CS101: Introduction to Computer Programming, IIT Bombay <br />
-[Fall 2017] CS305 + 341: Computer Architecture, IIT Bombay <br />
-[Fall 2016] CS215: Data Analysis and Interpretation, IIT Bombay <br />
-[Fall 2015] BB101: Introduction to Biology, IIT Bombay <br />
+[Fall 2018] CS540: Artificial Intelligence, Jerry Zhu, UW Madison <br />
+[Spring'18] CS101: Introduction to Computer Programming, Krishna S, IIT Bombay <br />
+[Fall 2017] CS305 + 341: Computer Architecture, Bhaskaran Raman, IIT Bombay <br />
+[Fall 2016] CS215: Data Analysis and Interpretation, Suyash Awate, IIT Bombay <br />
+[Fall 2015] BB101: Introduction to Biology, Soumyo Mukherjee, IIT Bombay <br />
+
+### Academic Service
+Served as a reviewer for the following conferences:
+**2020:** ACL , EMNLP , NeurIPS
+**2019** EMNLP , AAAI
