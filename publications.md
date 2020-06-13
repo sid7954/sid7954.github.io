@@ -58,5 +58,8 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 
 ### Teaching and Service
 
-[Fall 2018] CS540: Artificial Intelligence, UW Madison
-[Spring 2018] CS101: Introduction to Computer Programming, IIT Bombay
+[Fall 2018] CS540: Artificial Intelligence, UW Madison <br />
+[Spring 2018] CS101: Introduction to Computer Programming, IIT Bombay <br />
+[Fall 2017] CS305 + 341: Computer Architecture, IIT Bombay <br />
+[Fall 2016] CS215: Data Analysis and Interpretation, IIT Bombay <br />
+[Fall 2015] BB101: Introduction to Biology, IIT Bombay <br />
