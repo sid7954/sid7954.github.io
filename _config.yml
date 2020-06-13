@@ -10,6 +10,10 @@ linkedin_username: siddhant-garg
 googlescholar : "https://scholar.google.com/citations?user=V02t618AAAAJ&hl=en&oi=ao"
 dblp : "https://dblp.org/pers/hd/g/Garg:Siddhant"
 
+nav_ext_links:
+  - name: CV
+    url: cv.pdf
+
 # Favicon
 favicon:
   safari: 5bbad5
