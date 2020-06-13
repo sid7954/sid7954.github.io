@@ -54,3 +54,9 @@ Master's Thesis, University of Wisconsin-Madison, **2020** <br />
 Bachelor's Thesis, IIT Bombay, **2018** <br />
 **Advisor: Sunita Sarawagi** <br />
 [[Thesis]](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/1zCFnZ2PeFDFRxFOn36ui5y6I86zfS9qp9KwdePaCQ6M/edit?usp=sharing){:target="_blank"} <br />
+
+
+### Teaching and Service
+
+[Fall 2018] CS540: Artificial Intelligence, UW Madison
+[Spring 2018] CS101: Introduction to Computer Programming, IIT Bombay
