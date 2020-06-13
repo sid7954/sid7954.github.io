@@ -12,7 +12,7 @@ permalink: /publications/
 
 #### [Stochastic Bandits with Delayed Composite Anonymous Feedback](https://arxiv.org/abs/1910.01161){:target="_blank"}
 **Siddhant Garg\***, Aditya Kumar Akash \* <br />
-**NeurIPS 2019 Workshop on ML with Guarantees ** <br />
+**NeurIPS 2019 Workshop on ML with Guarantees** <br />
 [[Paper]](https://arxiv.org/pdf/1910.01161.pdf){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1dpKXQJK70aCib080TIFOgJDOxZme-RCk/view?usp=sharing){:target="_blank"} <br />
 
 #### [Interpretable Inference Graphs for Face Recognition](https://ieeexplore.ieee.org/abstract/document/8960990){:target="_blank"}
