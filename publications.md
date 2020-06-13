@@ -11,12 +11,12 @@ permalink: /publications/
 [[Paper]](https://arxiv.org/pdf/1911.04118.pdf){:target="_blank"} [[Code]](https://github.com/alexa/wqa_tanda){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1aW0f98W2SwVdm6gHsPVXPz7YLYHrTcLp/view?usp=sharing){:target="_blank"} [[Blog]](https://www.amazon.science/blog/on-benchmark-data-set-question-answering-system-halves-error-rate){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1mnNOCT6rR90adOf3kPtr01NJ34sdqM2d/view?usp=sharing){:target="_blank"}<br />
 
 #### [Stochastic Bandits with Delayed Composite Anonymous Feedback](https://arxiv.org/abs/1910.01161){:target="_blank"}
-**Siddhant Garg\***, Aditya Kumar Akash \* <br />
+**Siddhant Garg\***, Aditya Kumar Akash\* <br />
 **NeurIPS 2019 Workshop on ML with Guarantees** <br />
 [[Paper]](https://arxiv.org/pdf/1910.01161.pdf){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1dpKXQJK70aCib080TIFOgJDOxZme-RCk/view?usp=sharing){:target="_blank"} <br />
 
 #### [Interpretable Inference Graphs for Face Recognition](https://ieeexplore.ieee.org/abstract/document/8960990){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan \*, Varun Thumbe <br />
+**Siddhant Garg\***, Goutham Ramakrishnan\*, Varun Thumbe <br />
 **IVCNZ 2019** <br />
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8960990){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1IQwgxGKzzGHWLWUaIrqVrU92151DK1yc/view?usp=sharing){:target="_blank"} [[Slide]](https://drive.google.com/file/d/1dByshKSoA5ilQIAAY4PlD7bMKjS3eaTr/view?usp=sharing){:target="_blank"} <br />
 
@@ -28,29 +28,29 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 ### Pre-Prints
 
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan \* **2020** <br />
+**Siddhant Garg\***, Goutham Ramakrishnan\* , **2020** <br />
 [[Paper]](https://arxiv.org/pdf/2005.04316.pdf){:target="_blank"} <br />
 
 #### [SimpleTran: Transferring Pre-Trained Sentence Embeddings for Low Resource Text Classification](https://arxiv.org/abs/2004.05119){:target="_blank"}
-**Siddhant Garg\***, Rohit Kumar Sharma \* , Yingyu Liang **2020**<br />
+**Siddhant Garg\***, Rohit Kumar Sharma\* , Yingyu Liang , **2020**<br />
 [[Paper]](https://arxiv.org/pdf/2004.05119.pdf){:target="_blank"} <br />
 
 #### [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan \* **2020** <br />
+**Siddhant Garg\***, Goutham Ramakrishnan\* ,**2020** <br />
 [[Paper]](https://arxiv.org/pdf/2004.01970.pdf){:target="_blank"} [[Blog]](https://medium.com/@tinahuang962/adversarial-examples-in-nlp-using-bert-based-attacks-4a702fc33345){:target="_blank"}<br />
 
 #### [Data Ordering Patterns for Neural Machine Translation: An Empirical Study](https://arxiv.org/abs/1909.10642){:target="_blank"}
-**Siddhant Garg** **2019**<br />
+**Siddhant Garg** , **2019**<br />
 [[Paper]](https://arxiv.org/pdf/1909.10642.pdf){:target="_blank"} <br />
 
 ### Thesis
 
 #### [Understanding Representation Learning Paradigms with Applications to Low Resource Text Classification](https://minds.wisconsin.edu/handle/1793/80196){:target="_blank"}
-Master's Thesis, University of Wisconsin-Madison **2020** <br />
+Master's Thesis, University of Wisconsin-Madison, **2020** <br />
 **Advisor: Yingyu Liang** <br />
 [[Thesis]](https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y){:target="_blank"} <br />
 
 #### [Structured Attention Sequence to Sequence Models](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"}
-Bachelor's Thesis, IIT Bombay **2018** <br />
+Bachelor's Thesis, IIT Bombay, **2018** <br />
 **Advisor: Sunita Sarawagi** <br />
 [[Thesis]](https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/1zCFnZ2PeFDFRxFOn36ui5y6I86zfS9qp9KwdePaCQ6M/edit?usp=sharing){:target="_blank"} <br />
