@@ -7,6 +7,6 @@ permalink: /about/
 
 I am a second year graduate student at the University of Wisconsin-Madison pursuing my Masters in Computer Science. I am working with Prof. Yingyu Liang on Natural Language Processing. Specifically, I am working on Transfer Learning and Adversarial NLP.
 
-I pursued my summer internship as an Applied Scientist Intern at Amazon Alexa Search, Manhattan Beach, CA where I was guided by Alessandro Moschittti. My work involved developping a new technique for using pre-trained transformer models for Answer Sentence Selection in Question-Answering.
+I pursued my summer internship as an Applied Scientist Intern at Amazon Alexa Search, Manhattan Beach, CA where I was guided by Alessandro Moschittti. My work involved developping a new technique for using pre-trained transformer models like BERT for Answer Sentence Selection in Question-Answering.
 
 I completed my Bachelors of Technology in Computer Science and Engineering with Honors from the Indian Institute of Technology (IIT) Bombay, India in 2018 with a CGPA of 9.59/10. I completed a Minor in Applied Statistics and Informatics during my Bachelors.
