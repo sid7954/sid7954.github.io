@@ -9,7 +9,7 @@ seo:
 
 <a href="mailto:sgarg33@wisc.edu">Email</a> / <a href="https://scholar.google.com/citations?user=V02t618AAAAJ&hl=en&oi=ao">Google Scholar</a> <br />
 
-I recently graduated with a Masters in Computer Science from the University of Wisconsin-Madison in May 2020. I completed my Masters Thesis under the guidance of Prof. Yingyu Liang on representation learning paradigms and their application to text classification. Prior to this, I completed my Bachelors in Computer Science and Engineering from IIT Bombay in August 2018 where I was advised by Prof. Sunita Sarawagi.
+I am an Applied Scientist at Amazon working in the Alexa AI Search team on Question Answering systems. I graduated from the University of Wisconsin-Madison with a Masters in Computer Science in May 2020. I completed my Masters Thesis under the guidance of Prof. Yingyu Liang on representation learning paradigms and their application to text classification. Prior to this, I completed my Bachelors in Computer Science and Engineering from IIT Bombay in August 2018 where I was advised by Prof. Sunita Sarawagi.
 
 
 ### News and Updates
@@ -17,6 +17,8 @@ I recently graduated with a Masters in Computer Science from the University of W
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>July 2020:</b></td><td> Our paper titled "Can Adversarial Weight Perturbations Inject Neural Backdoors?" got accepted at CIKM 2020. Preprint coming soon!</td></tr>
+<tr><td><b>June 2020:</b></td><td> I joined Amazon Alexa AI Search as an Applied Scientist</td></tr>
 <tr><td><b>May 2020:</b></td><td> <a href="https://arxiv.org/abs/2005.04316">Survey</a> on advances in Quantum Deep Learning released</td></tr>
 <tr><td><b>May 2020:</b></td><td> Defended my <a href="https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y">Master's Thesis</a> on representation learning paradigms and their application to text classification </td></tr>
 <tr><td><b>April 2020:</b></td><td> <a href="https://arxiv.org/abs/2004.05119">Pre-print</a> on fine-tuning BERT for data scarce text classification released</td></tr>
