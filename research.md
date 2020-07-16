@@ -6,6 +6,10 @@ permalink: /research/
 ### Conference Publications
 
 #### [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118){:target="_blank"}
+**Siddhant Garg\***, Adarsh Kumar\*, Vibhor Goel\*, Yingyu Liang <br />
+**CIKM 2020** <br />
+
+#### [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118){:target="_blank"}
 **Siddhant Garg**, Thuy Vu, Alessandro Moschitti <br />
 **AAAI 2020** (<span style="color:red">*Oral Presentation*</span>)<br />
 [[Paper]](https://arxiv.org/pdf/1911.04118.pdf){:target="_blank"} [[Code]](https://github.com/alexa/wqa_tanda){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1aW0f98W2SwVdm6gHsPVXPz7YLYHrTcLp/view?usp=sharing){:target="_blank"} [[Blog]](https://www.amazon.science/blog/on-benchmark-data-set-question-answering-system-halves-error-rate){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1mnNOCT6rR90adOf3kPtr01NJ34sdqM2d/view?usp=sharing){:target="_blank"}<br />
