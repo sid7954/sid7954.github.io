@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ### Conference Publications
 
-#### [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118){:target="_blank"}
+#### [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://sid7954.github.io/){:target="_blank"}
 **Siddhant Garg\***, Adarsh Kumar\*, Vibhor Goel\*, Yingyu Liang <br />
 **CIKM 2020** <br />
 
