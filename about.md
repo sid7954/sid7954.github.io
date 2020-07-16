@@ -5,9 +5,9 @@ permalink: /about/
 ---
 ### About Me
 
-I will be joining Amazon as an Applied Scientist in Summer 2020.
+I am an Applied Scientist at Amazon working in the Alexa AI Search team on Question Answering systems at Manhattan Beach, CA. I joined Amazon in June, 2020 after graduating from the University of Wisconsin Madison in May, 2020.
 
-I am a second year graduate student at the University of Wisconsin-Madison pursuing my Masters in Computer Science. I am working with Prof. Yingyu Liang on Natural Language Processing. Specifically, I am working on Transfer Learning and Adversarial NLP.
+I obtained my Masters in Computer Science at the University of Wisconsin-Madison where I was guided by Prof. Yingyu Liang on Natural Language Processing. Specifically, I am worked on Transfer Learning and Adversarial NLP.
 
 I pursued my summer internship as an Applied Scientist Intern at Amazon Alexa Search, Manhattan Beach, CA where I was guided by Alessandro Moschittti. My work involved developping a new technique for using pre-trained transformers like BERT for Answer Sentence Selection in Question-Answering.
 
