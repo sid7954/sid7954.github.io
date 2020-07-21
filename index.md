@@ -11,9 +11,6 @@ seo:
 
 I am an Applied Scientist at Amazon working in the Alexa AI Search team on Question Answering systems. I graduated from the University of Wisconsin-Madison with a Masters in Computer Science in May 2020. I completed my Masters Thesis under the guidance of Prof. Yingyu Liang on representation learning paradigms and their application to text classification. Prior to this, I completed my Bachelors in Computer Science and Engineering from IIT Bombay in August 2018 where I was advised by Prof. Sunita Sarawagi.
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=LV8y34LVVnVwKYx3HvNRdhWYJzHT6FwkPoyryvGeYq8&cl=ffffff&w=a"></script>
-
-
 ### News and Updates
 <div style="height:400px;overflow:auto;">
 <table>
@@ -35,3 +32,6 @@ I am an Applied Scientist at Amazon working in the Alexa AI Search team on Quest
 <tr><td><b>Sep 2018:</b></td><td> I joined the Department of Computer Science at the University of Wisconsin-Madison as a Masters student </td></tr>
 <tr><td><b>Aug 2018:</b></td><td> Short <a href="https://www.aclweb.org/anthology/D18-1065.pdf">paper</a> on differentiable hard attention for seq2seq learning accepted at EMNLP 2018 </td></tr>
 <tr><td><b>May 2018:</b></td><td> Defended my <a href="https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing">Bachelor's Thesis</a> on structured attention models for seq2seq learning</td></tr>
+</table>
+</div>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=LV8y34LVVnVwKYx3HvNRdhWYJzHT6FwkPoyryvGeYq8&cl=ffffff&w=a"></script>
