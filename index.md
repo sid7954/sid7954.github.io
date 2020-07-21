@@ -34,4 +34,3 @@ I am an Applied Scientist at Amazon working in the Alexa AI Search team on Quest
 <tr><td><b>May 2018:</b></td><td> Defended my <a href="https://drive.google.com/file/d/1Qj2ymtgOceUwHQKpkU_xkmU5PpZ0SjAf/view?usp=sharing">Bachelor's Thesis</a> on structured attention models for seq2seq learning</td></tr>
 </table>
 </div>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=LV8y34LVVnVwKYx3HvNRdhWYJzHT6FwkPoyryvGeYq8&cl=ffffff&w=a"></script>
