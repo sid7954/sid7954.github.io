@@ -11,6 +11,8 @@ seo:
 
 I am an Applied Scientist at Amazon working in the Alexa AI Search team on Question Answering systems. I graduated from the University of Wisconsin-Madison with a Masters in Computer Science in May 2020. I completed my Masters Thesis under the guidance of Prof. Yingyu Liang on representation learning paradigms and their application to text classification. Prior to this, I completed my Bachelors in Computer Science and Engineering from IIT Bombay in August 2018 where I was advised by Prof. Sunita Sarawagi.
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=LV8y34LVVnVwKYx3HvNRdhWYJzHT6FwkPoyryvGeYq8&cl=ffffff&w=a"></script>
+
 
 ### News and Updates
 <div style="height:400px;overflow:auto;">
