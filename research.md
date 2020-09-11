@@ -37,6 +37,11 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 
 ### Pre-Prints
 
+#### [Functional Regularization for Representation Learning: A Unified Theoretical Perspective
+](https://arxiv.org/abs/2008.02447){:target="_blank"}
+**Siddhant Garg**, Yingyu Liang , **2020** <br />
+[[Paper]](https://arxiv.org/abs/2008.02447){:target="_blank"} <br />
+
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , **2020** <br />
 [[Paper]](https://arxiv.org/pdf/2005.04316.pdf){:target="_blank"} <br />
