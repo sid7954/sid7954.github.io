@@ -5,9 +5,15 @@ permalink: /research/
 ---
 ### Conference Publications
 
-#### [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://sid7954.github.io/){:target="_blank"}
+#### [Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer](https://arxiv.org/abs/2004.05119){:target="_blank"}
+**Siddhant Garg**, Rohit Kumar Sharma, Yingyu Liang <br />
+**AACL-IJCNLP 2020** <br />
+[[Paper]](https://arxiv.org/abs/2004.05119){:target="_blank"}
+
+#### [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://arxiv.org/abs/2008.01761){:target="_blank"}
 **Siddhant Garg\***, Adarsh Kumar\*, Vibhor Goel\*, Yingyu Liang <br />
 **CIKM 2020** <br />
+[[Paper]](https://arxiv.org/abs/2008.01761){:target="_blank"} [[Code]](https://github.com/goel96vibhor/AdvWeightPerturbations){:target="_blank"}
 
 #### [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118){:target="_blank"}
 **Siddhant Garg**, Thuy Vu, Alessandro Moschitti <br />
