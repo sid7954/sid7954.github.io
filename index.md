@@ -16,6 +16,7 @@ I am an Applied Scientist at Amazon working in the Alexa AI Search team on Quest
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2004.05119">"BAE: BERT-based Adversarial Examples for Text Classification"</a> got accepted at EMNLP 2020 in the main conference</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Our paper "Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer" got accepted at AACL 2020. Link coming soon!</td></tr>
 <tr><td><b>Jul 2020:</b></td><td> Our paper "Can Adversarial Weight Perturbations Inject Neural Backdoors?" got accepted at CIKM 2020. Preprint coming soon!</td></tr>
 <tr><td><b>Jun 2020:</b></td><td> I joined Amazon Alexa AI Search as an Applied Scientist</td></tr>
