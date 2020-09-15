@@ -8,7 +8,7 @@ permalink: /research/
 #### [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* ,**2020** <br />
 **EMNLP 2020** <br />
-[[Paper]](https://arxiv.org/pdf/2004.01970.pdf){:target="_blank"} [[Blog]](https://medium.com/@tinahuang962/adversarial-examples-in-nlp-using-bert-based-attacks-4a702fc33345){:target="_blank"}<br /> [[Code]](https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py){:target="_blank"}
+[[Paper]](https://arxiv.org/pdf/2004.01970.pdf){:target="_blank"} [[Blog]](https://medium.com/@tinahuang962/adversarial-examples-in-nlp-using-bert-based-attacks-4a702fc33345){:target="_blank"} [[Code]](https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py){:target="_blank"}<br />
 
 #### [Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer](https://arxiv.org/abs/2004.05119){:target="_blank"}
 **Siddhant Garg**, Rohit Kumar Sharma, Yingyu Liang <br />
