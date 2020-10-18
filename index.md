@@ -16,10 +16,10 @@ I am an Applied Scientist at Amazon working in the Alexa AI Search team on Quest
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/pdf/2008.02447.pdf">"Functional Regularization for Representation Learning: A Unified Theoretical Perspective"</a> got accepted to NeurIPS 2020</td></tr>
+<tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2008.02447">"Functional Regularization for Representation Learning: A Unified Theoretical Perspective"</a> got accepted to NeurIPS 2020</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2004.05119">"BAE: BERT-based Adversarial Examples for Text Classification"</a> got accepted at EMNLP 2020 in the main conference</td></tr>
-<tr><td><b>Sep 2020:</b></td><td> Our paper "Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer" got accepted at AACL 2020. Link coming soon!</td></tr>
-<tr><td><b>Jul 2020:</b></td><td> Our paper "Can Adversarial Weight Perturbations Inject Neural Backdoors?" got accepted at CIKM 2020. Preprint coming soon!</td></tr>
+<tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2004.05119">"Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer"</a> got accepted at AACL 2020</td></tr>
+<tr><td><b>Jul 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2008.01761">"Can Adversarial Weight Perturbations Inject Neural Backdoors?"</a> got accepted at CIKM 2020</td></tr>
 <tr><td><b>Jun 2020:</b></td><td> I joined Amazon Alexa AI Search as an Applied Scientist</td></tr>
 <tr><td><b>May 2020:</b></td><td> <a href="https://arxiv.org/abs/2005.04316">Survey</a> on advances in Quantum Deep Learning released</td></tr>
 <tr><td><b>May 2020:</b></td><td> Defended my <a href="https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y">Master's Thesis</a> on representation learning paradigms and their application to text classification </td></tr>
