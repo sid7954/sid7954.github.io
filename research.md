@@ -8,7 +8,7 @@ permalink: /research/
 #### [Functional Regularization for Representation Learning: A Unified Theoretical Perspective](https://arxiv.org/abs/2008.02447){:target="_blank"}
 **Siddhant Garg**, Yingyu Liang , **2020** <br />
 **NeurIPS 2020** <br />
-[[Paper]](https://arxiv.org/abs/2008.02447){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2008.02447){:target="_blank"} [[Video]](https://slideslive.com/38936502/functional-regularization-for-representation-learning-a-unified-theoretical-perspective){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/17NGIwH48GHvxVIdQbZkO-9lqQqDrgKyLt5-wSlO9K0U/edit?usp=sharing){:target="_blank"} [[Code]](https://github.com/sid7954/functional-regularization){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1-cJfaA-pfSb8MUo5lwcn-bz2UgPa4JlZ/view?usp=sharing){:target="_blank"} <br />
 
 #### [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* ,**2020** <br />
