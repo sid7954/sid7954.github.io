@@ -17,6 +17,7 @@ I am an Applied Scientist at Amazon working in the Alexa AI Search team on Quest
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Dec 2020:</b></td><td> I was recognised for being an Outstanding Reviewer for EMNLP 2020</td></tr>
 <tr><td><b>Oct 2020:</b></td><td> I was recognised for being in the Top 10% of the reviewers for NeurIPS 2020</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2008.02447">"Functional Regularization for Representation Learning: A Unified Theoretical Perspective"</a> got accepted to NeurIPS 2020</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2004.05119">"BAE: BERT-based Adversarial Examples for Text Classification"</a> got accepted at EMNLP 2020 in the main conference</td></tr>
