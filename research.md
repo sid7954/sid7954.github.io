@@ -18,7 +18,7 @@ permalink: /research/
 #### [Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer](https://arxiv.org/abs/2004.05119){:target="_blank"}
 **Siddhant Garg**, Rohit Kumar Sharma, Yingyu Liang <br />
 **AACL-IJCNLP 2020** <br />
-[[Paper]](https://arxiv.org/abs/2004.05119){:target="_blank"}
+[[Paper]](https://arxiv.org/abs/2004.05119){:target="_blank"} [[Video]](https://youtu.be/gA72QWXV4ns){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/1k5QvkBGNWmr9H0nJQiueRU716VujLf5UGnG1KpDajoQ/edit?usp=sharing){:target="_blank"} <br />
 
 #### [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://arxiv.org/abs/2008.01761){:target="_blank"}
 **Siddhant Garg\***, Adarsh Kumar\*, Vibhor Goel\*, Yingyu Liang <br />
