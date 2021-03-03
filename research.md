@@ -47,6 +47,10 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 
 ### Pre-Prints
 
+#### [Towards Robustness to Label Noise in Text Classification via Noise Modeling](https://arxiv.org/abs/2101.11214){:target="_blank"}
+**Siddhant Garg\***, Goutham Ramakrishnan\* , Varun Thumbe\* , **2021** <br />
+[[Paper]](https://arxiv.org/abs/2101.11214){:target="_blank"} [[Code]](https://github.com/thumbe3/label-noise-nlp){:target="_blank"} <br />
+
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , **2020** <br />
 [[Paper]](https://arxiv.org/pdf/2005.04316.pdf){:target="_blank"} <br />
@@ -77,6 +81,9 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 [Fall 2015] BB101: Introduction to Biology, Soumyo Mukherjee, IIT Bombay <br />
 
 ### Academic Service
+Served as a reviewer for the following journals in the year: <br />
+**2021:** JAIR <br />
+
 Served as a reviewer for the following conferences: <br />
 **2021:** AAAI , NAACL, ICML , ACL <br />
 **2020:** ACL , ESANN, EMNLP (Outstanding Reviewer) , NeurIPS (Top 10% of Reviewers) <br />
