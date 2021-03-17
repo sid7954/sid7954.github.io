@@ -85,6 +85,6 @@ Served as a reviewer for the following journals in the year: <br />
 **2021:** JAIR <br />
 
 Served as a reviewer for the following conferences: <br />
-**2021:** AAAI , NAACL, ICML , ACL <br />
+**2021:** AAAI , NAACL, ICML , ACL, SIGIR <br />
 **2020:** ACL , ESANN, EMNLP (Outstanding Reviewer) , NeurIPS (Top 10% of Reviewers) <br />
 **2019:** EMNLP , AAAI.  <br />
