@@ -17,7 +17,7 @@ I am an <a href="https://www.amazon.science/">Applied Scientist</a> at Amazon wo
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Apr 2021:</b></td><td> <a href="https://arxiv.org/abs/2101.11214">Paper</a> on text classification with noisy labels accepted at ICLR 2021 RobustML Workshop and S2D-OLAD Workshop on overcoming limited and adverse data</td></tr>
+<tr><td><b>Apr 2021:</b></td><td> <a href="https://arxiv.org/abs/2101.11214">Paper</a> on text classification with noisy labels accepted at two ICLR 2021 Workshops: RobustML and S2D-OLAD</td></tr>
 <tr><td><b>Jan 2021:</b></td><td> <a href="https://arxiv.org/abs/2101.11214">Pre-print</a> on text classification with noisy labels released</td></tr>
 <tr><td><b>Dec 2020:</b></td><td> I was recognised for being an Outstanding Reviewer for EMNLP 2020</td></tr>
 <tr><td><b>Oct 2020:</b></td><td> I was recognised for being in the Top 10% of the reviewers for NeurIPS 2020</td></tr>
