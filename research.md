@@ -7,8 +7,7 @@ permalink: /research/
 
 #### [Towards Robustness to Label Noise in Text Classification via Noise Modeling](https://arxiv.org/abs/2101.11214){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , Varun Thumbe\* , **2021** <br />
-**ICLR 2021 RobustML Workshop** <br />
-**ICLR 2021 S2D-OLAD Workshop: From Shallow to Deep, Overcoming Limited and Adverse Data** <br />
+**ICLR 2021 RobustML Workshop, S2D-OLAD Workshop** <br />
 [[Paper]](https://arxiv.org/abs/2101.11214){:target="_blank"} [[Code]](https://github.com/thumbe3/label-noise-nlp){:target="_blank"} <br />
 
 
