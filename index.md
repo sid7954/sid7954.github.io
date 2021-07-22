@@ -17,7 +17,8 @@ I am an <a href="https://www.amazon.science/">Applied Scientist</a> at Amazon wo
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Jul 2021:</b></td><td> I was recognised for being an Outstanding Reviewer for ACL 2021</td></tr>
+<tr><td><b>Jul  2021:</b></td><td> I was recognised for being in the Top 10% of the reviewers for ICML 2021</td></tr>
+<tr><td><b>Jul  2021:</b></td><td> I was recognised for being an Outstanding Reviewer for ACL 2021</td></tr>
 <tr><td><b>Apr 2021:</b></td><td> <a href="https://arxiv.org/abs/2101.11214">Paper</a> on text classification with noisy labels accepted at two ICLR 2021 Workshops: RobustML and S2D-OLAD</td></tr>
 <tr><td><b>Jan 2021:</b></td><td> <a href="https://arxiv.org/abs/2101.11214">Pre-print</a> on text classification with noisy labels released</td></tr>
 <tr><td><b>Dec 2020:</b></td><td> I was recognised for being an Outstanding Reviewer for EMNLP 2020</td></tr>
@@ -25,7 +26,7 @@ I am an <a href="https://www.amazon.science/">Applied Scientist</a> at Amazon wo
 <tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2008.02447">"Functional Regularization for Representation Learning: A Unified Theoretical Perspective"</a> got accepted to NeurIPS 2020</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2004.05119">"BAE: BERT-based Adversarial Examples for Text Classification"</a> got accepted at EMNLP 2020 in the main conference</td></tr>
 <tr><td><b>Sep 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2004.05119">"Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer"</a> got accepted at AACL 2020</td></tr>
-<tr><td><b>Jul 2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2008.01761">"Can Adversarial Weight Perturbations Inject Neural Backdoors?"</a> got accepted at CIKM 2020</td></tr>
+<tr><td><b>Jul  2020:</b></td><td> Our paper <a href="https://arxiv.org/abs/2008.01761">"Can Adversarial Weight Perturbations Inject Neural Backdoors?"</a> got accepted at CIKM 2020</td></tr>
 <tr><td><b>Jun 2020:</b></td><td> I joined Amazon Alexa AI Search as an Applied Scientist</td></tr>
 <tr><td><b>May 2020:</b></td><td> <a href="https://arxiv.org/abs/2005.04316">Survey</a> on advances in Quantum Deep Learning released</td></tr>
 <tr><td><b>May 2020:</b></td><td> Defended my <a href="https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y">Master's Thesis</a> on representation learning paradigms and their application to text classification </td></tr>
