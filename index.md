@@ -17,6 +17,7 @@ I am an <a href="https://www.amazon.science/">Applied Scientist</a> at Amazon wo
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Aug  2021:</b></td><td> Our paper <a href="https://arxiv.org/abs/2101.11214">"Towards Robustness to Label Noise in Text Classification via Noise Modeling"</a> got accepted at CIKM 2021</td></tr>
 <tr><td><b>Jul  2021:</b></td><td> I was recognised for being in the Top 10% of the reviewers for ICML 2021</td></tr>
 <tr><td><b>Jul  2021:</b></td><td> I was recognised for being an Outstanding Reviewer for ACL 2021</td></tr>
 <tr><td><b>Apr 2021:</b></td><td> <a href="https://arxiv.org/abs/2101.11214">Paper</a> on text classification with noisy labels accepted at two ICLR 2021 Workshops: RobustML and S2D-OLAD</td></tr>
