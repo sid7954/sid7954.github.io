@@ -5,20 +5,25 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
+**Siddhant Garg**, Alessandro Moschitti <br />
+**EMNLP 2021** <br />
+Paper coming soon <br />
+
 #### [Towards Robustness to Label Noise in Text Classification via Noise Modeling](https://arxiv.org/abs/2101.11214){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan\* , Varun Thumbe\* , **2021** <br />
+**Siddhant Garg\***, Goutham Ramakrishnan\* , Varun Thumbe\* <br />
 **CIKM 2021** <br />
 **ICLR 2021 RobustML Workshop, S2D-OLAD Workshop** <br />
 [[Paper]](https://arxiv.org/abs/2101.11214){:target="_blank"} [[Code]](https://github.com/thumbe3/label-noise-nlp){:target="_blank"} <br />
 
 
 #### [Functional Regularization for Representation Learning: A Unified Theoretical Perspective](https://arxiv.org/abs/2008.02447){:target="_blank"}
-**Siddhant Garg**, Yingyu Liang , **2020** <br />
+**Siddhant Garg**, Yingyu Liang <br />
 **NeurIPS 2020** <br />
 [[Paper]](https://arxiv.org/abs/2008.02447){:target="_blank"} [[Video]](https://slideslive.com/38936502/functional-regularization-for-representation-learning-a-unified-theoretical-perspective){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/17NGIwH48GHvxVIdQbZkO-9lqQqDrgKyLt5-wSlO9K0U/edit?usp=sharing){:target="_blank"} [[Code]](https://github.com/sid7954/functional-regularization){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1-cJfaA-pfSb8MUo5lwcn-bz2UgPa4JlZ/view?usp=sharing){:target="_blank"} <br />
 
 #### [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970){:target="_blank"}
-**Siddhant Garg\***, Goutham Ramakrishnan\* ,**2020** <br />
+**Siddhant Garg\***, Goutham Ramakrishnan\* <br />
 **EMNLP 2020** <br />
 [[Paper]](https://arxiv.org/pdf/2004.01970.pdf){:target="_blank"} [[Blog]](https://medium.com/@tinahuang962/adversarial-examples-in-nlp-using-bert-based-attacks-4a702fc33345){:target="_blank"} [[Slides]](https://docs.google.com/presentation/d/16YdpbOcNarFBjJeypvnnQyjilTJ3PCje5VN1QzjVWCc/edit?usp=sharing){:target="_blank"} [[Video]](https://slideslive.com/38938695/bae-bertbased-adversarial-examples-for-text-classification){:target="_blank"} [[Code]](https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py){:target="_blank"}<br />
 
