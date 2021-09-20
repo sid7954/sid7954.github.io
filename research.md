@@ -8,7 +8,7 @@ permalink: /research/
 #### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
 **Siddhant Garg**, Alessandro Moschitti <br />
 **EMNLP 2021** <br />
-Paper coming soon <br />
+[[Paper]](https://arxiv.org/abs/2109.07009){:target="_blank"} <br />
 
 #### [Towards Robustness to Label Noise in Text Classification via Noise Modeling](https://arxiv.org/abs/2101.11214){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , Varun Thumbe\* <br />
