@@ -59,6 +59,10 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 
 ### Pre-Prints
 
+#### [An Analysis of Attentive Walk-Aggregating Graph Neural Networks](https://arxiv.org/abs/2110.02667){:target="_blank"}
+Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2020** <br />
+[[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
+
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , **2020** <br />
 [[Paper]](https://arxiv.org/pdf/2005.04316.pdf){:target="_blank"} <br />
