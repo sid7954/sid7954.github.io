@@ -8,13 +8,13 @@ permalink: /research/
 #### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
 **Siddhant Garg**, Alessandro Moschitti <br />
 **EMNLP 2021** (<span style="color:red">*Oral Presentation*</span>)<br />
-[[Paper]](https://arxiv.org/abs/2109.07009){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2109.07009){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1KOS_vNmQCaNGWKGcPhNRm104P8a855HK/view?usp=sharing){:target="_blank"} [[Video]](https://drive.google.com/file/d/1OmQ6GpOr8DE1lNyoGr2IugLVfoVm_DCx/view?usp=sharing){:target="_blank"} [[Poster]](https://drive.google.com/file/d/18aRmCg57_TexZgoTfp0bv33lVzPA2bxT/view?usp=sharing){:target="_blank"} <br />
 
 #### [Towards Robustness to Label Noise in Text Classification via Noise Modeling](https://arxiv.org/abs/2101.11214){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , Varun Thumbe\* <br />
 **CIKM 2021** <br />
 **ICLR 2021 RobustML Workshop, S2D-OLAD Workshop** <br />
-[[Paper]](https://arxiv.org/abs/2101.11214){:target="_blank"} [[Code]](https://github.com/thumbe3/label-noise-nlp){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2101.11214){:target="_blank"} [[Code]](https://github.com/thumbe3/label-noise-nlp){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1_6o6fTEwaXkFQdOlBOXZfoqNDZrNWQTZ/view?usp=sharing){:target="_blank"} [[Video]](https://drive.google.com/file/d/1xvzK5H7OlaaU25iO1sNkMDYbc80azx43/view?usp=sharing){:target="_blank"} [[Poster]](https://drive.google.com/file/d/1kj5xSiPzU8A0s6dSvqbG8v54OvnBJhTF/view?usp=sharing){:target="_blank"}<br />
 
 
 #### [Functional Regularization for Representation Learning: A Unified Theoretical Perspective](https://arxiv.org/abs/2008.02447){:target="_blank"}
