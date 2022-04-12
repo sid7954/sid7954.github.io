@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### About Me
 
-I am an Applied Scientist at Amazon working in the Alexa AI Search team on Question Answering systems at Manhattan Beach, CA. I joined Amazon in June, 2020 after graduating from the University of Wisconsin Madison in May, 2020.
+I am an Applied Scientist at Amazon working in the Alexa AI Search team on open-domain Question Answering systems in the Bay Area, CA. I joined Amazon in June, 2020 after graduating from the University of Wisconsin Madison in May, 2020.
 
 I obtained my Masters in Computer Science at the University of Wisconsin-Madison where I was guided by Prof. Yingyu Liang on Natural Language Processing. Specifically, I worked on Transfer Learning and Adversarial NLP.
 
