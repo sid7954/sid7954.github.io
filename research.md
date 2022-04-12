@@ -5,6 +5,12 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [Paragraph-based Transformer Pretraining for Multi-Sentence Inference](){:target="_blank"}
+Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
+**NAACL 2022** <br />
+[Paper Coming Soon]
+
+
 #### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
 **Siddhant Garg**, Alessandro Moschitti <br />
 **EMNLP 2021** (<span style="color:red">*Oral Presentation*</span>)<br />
@@ -60,7 +66,7 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 ### Pre-Prints
 
 #### [An Analysis of Attentive Walk-Aggregating Graph Neural Networks](https://arxiv.org/abs/2110.02667){:target="_blank"}
-Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2020** <br />
+Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
 [[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
 
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
@@ -97,7 +103,7 @@ Served as a reviewer for the following journals in the year: <br />
 **2021:** JAIR <br />
 
 Served as a reviewer for the following conferences: <br />
-**2022:** ICLR <br />
+**2022:** ICLR, ACL, NAACL, NeurIPS <br />
 **2021:** AAAI , NAACL, ICML (Top 10% of Reviewers) , ACL (Outstanding Reviewer), SIGIR, EMNLP, NeurIPS <br />
 **2020:** AAAI, ACL , ESANN, EMNLP (Outstanding Reviewer) , NeurIPS (Top 10% of Reviewers) <br />
 **2019:** EMNLP <br />
