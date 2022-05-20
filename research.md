@@ -8,8 +8,7 @@ permalink: /research/
 #### [Paragraph-based Transformer Pretraining for Multi-Sentence Inference](){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **NAACL 2022** <br />
-[Paper Coming Soon]
-
+[[Paper]](https://arxiv.org/abs/2205.01228){:target="_blank"}
 
 #### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
 **Siddhant Garg**, Alessandro Moschitti <br />
