@@ -64,6 +64,10 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 
 ### Pre-Prints
 
+#### [Pre-training Transformer Models with Sentence-Level Objectives for Answer Sentence Selection](https://arxiv.org/abs/2205.10455){:target="_blank"}
+Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti , **2022** <br />
+[[Paper]](https://arxiv.org/abs/2205.10455){:target="_blank"} <br />
+
 #### [An Analysis of Attentive Walk-Aggregating Graph Neural Networks](https://arxiv.org/abs/2110.02667){:target="_blank"}
 Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
 [[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
@@ -102,7 +106,7 @@ Served as a reviewer for the following journals in the year: <br />
 **2021:** JAIR <br />
 
 Served as a reviewer for the following conferences: <br />
-**2022:** ICLR, ACL, NAACL, NeurIPS <br />
+**2022:** ICLR, ACL, NAACL, NeurIPS, EMNLP <br />
 **2021:** AAAI , NAACL, ICML (Top 10% of Reviewers) , ACL (Outstanding Reviewer), SIGIR, EMNLP, NeurIPS <br />
 **2020:** AAAI, ACL , ESANN, EMNLP (Outstanding Reviewer) , NeurIPS (Top 10% of Reviewers) <br />
 **2019:** EMNLP <br />
