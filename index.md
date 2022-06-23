@@ -18,6 +18,7 @@ I am an <a href="https://www.amazon.science/">Applied Scientist</a> at Amazon wo
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>May 2022:</b></td><td> <a href="https://arxiv.org/abs/2205.10455">Pre-print</a> on pre-training transformers by exploiting paragragph and document structure for answer sentence selection released</td></tr>
 <tr><td><b>Apr  2022:</b></td><td> Our paper <a href="https://arxiv.org/abs/2205.01228">"Paragraph-based Transformer Pretraining for Multi-Sentence Inference"</a> got accepted at NAACL 2022</td></tr>
 <tr><td><b>Nov 2021:</b></td><td> <a href="https://arxiv.org/abs/2110.02667">Pre-print</a> on analysis of attentive walk-aggregating GNNs released</td></tr>  
 <tr><td><b>Aug  2021:</b></td><td> Our paper <a href="https://arxiv.org/abs/2109.07009">"Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering"</a> got accepted at EMNLP 2021 as an oral presentation</td></tr>
