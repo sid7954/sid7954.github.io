@@ -62,15 +62,18 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 **EMNLP 2018** (<span style="color:red">*Oral Presentation*</span>)<br />
 [[Paper]](https://www.aclweb.org/anthology/D18-1065.pdf){:target="_blank"} [[Code]](https://github.com/sid7954/beam-joint-attention){:target="_blank"} [[Video]](https://vimeo.com/305212816){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1C40lIuYhRhE3xvWAKlQXLS4nKCZFMu-f/view?usp=sharing){:target="_blank"} <br />
 
+### Journal Publications
+
+#### [An Analysis of Attentive Walk-Aggregating Graph Neural Networks](https://arxiv.org/abs/2110.02667){:target="_blank"}
+Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
+**Transactions of Machine Learning Research (TMLR) 2022** <br />
+[[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
+
 ### Pre-Prints
 
 #### [Pre-training Transformer Models with Sentence-Level Objectives for Answer Sentence Selection](https://arxiv.org/abs/2205.10455){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti , **2022** <br />
 [[Paper]](https://arxiv.org/abs/2205.10455){:target="_blank"} <br />
-
-#### [An Analysis of Attentive Walk-Aggregating Graph Neural Networks](https://arxiv.org/abs/2110.02667){:target="_blank"}
-Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
-[[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
 
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , **2020** <br />
