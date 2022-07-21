@@ -66,7 +66,7 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 
 #### [An Analysis of Attentive Walk-Aggregating Graph Neural Networks](https://arxiv.org/abs/2110.02667){:target="_blank"}
 Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
-**Transactions of Machine Learning Research (TMLR) 2022** <br />
+**Transactions on Machine Learning Research (TMLR) 2022** <br />
 [[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
 
 ### Pre-Prints
