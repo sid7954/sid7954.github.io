@@ -5,6 +5,17 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [Knowledge Transfer from Answer Ranking to Answer Generation](){:target="_blank"}
+Matteo Gabburo, Rik Koncel-Kedziorski, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
+**EMNLP 2022** <br />
+[[Preprint coming soon]](){:target="_blank"} <br />
+
+
+#### [Pre-training Transformer Models with Sentence-Level Objectives for Answer Sentence Selection](https://arxiv.org/abs/2205.10455){:target="_blank"}
+Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
+**EMNLP 2022** <br />
+[[Paper]](https://arxiv.org/abs/2205.10455){:target="_blank"} <br />
+
 #### [Paragraph-based Transformer Pretraining for Multi-Sentence Inference](){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **NAACL 2022** <br />
@@ -70,10 +81,6 @@ Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br
 [[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
 
 ### Pre-Prints
-
-#### [Pre-training Transformer Models with Sentence-Level Objectives for Answer Sentence Selection](https://arxiv.org/abs/2205.10455){:target="_blank"}
-Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti , **2022** <br />
-[[Paper]](https://arxiv.org/abs/2205.10455){:target="_blank"} <br />
 
 #### [Advances in Quantum Deep Learning: An Overview](https://arxiv.org/abs/2005.04316){:target="_blank"}
 **Siddhant Garg\***, Goutham Ramakrishnan\* , **2020** <br />
