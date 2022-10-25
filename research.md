@@ -8,7 +8,7 @@ permalink: /research/
 #### [Knowledge Transfer from Answer Ranking to Answer Generation](){:target="_blank"}
 Matteo Gabburo, Rik Koncel-Kedziorski, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **EMNLP 2022** <br />
-[[Preprint coming soon]](){:target="_blank"} <br />
+[[Paper]](http://arxiv.org/abs/2210.12865){:target="_blank"} <br />
 
 
 #### [Pre-training Transformer Models with Sentence-Level Objectives for Answer Sentence Selection](https://arxiv.org/abs/2205.10455){:target="_blank"}
