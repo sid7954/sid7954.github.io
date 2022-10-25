@@ -18,7 +18,7 @@ I am an <a href="https://www.amazon.science/">Applied Scientist II</a> at Amazon
 <col width="100px">
 <col width="650px">
 
-<tr><td><b>Oct 2022:</b></td><td> Our paper on knowledge transfer from answer ranking to answer generation models got accepted at EMNLP 2022. Preprint coming soon</td></tr>
+<tr><td><b>Oct 2022:</b></td><td> Our <a href="http://arxiv.org/abs/2210.12865">paper</a> on knowledge transfer from answer ranking to answer generation models got accepted at EMNLP 2022</td></tr>
 <tr><td><b>Oct 2022:</b></td><td> Our <a href="https://arxiv.org/abs/2205.10455">paper</a> on pre-training transformers by exploiting document structure for answer selection got accepted at EMNLP 2022</td></tr>
 <tr><td><b>Jul 2022:</b></td><td> Our <a href="https://arxiv.org/abs/2110.02667">paper</a> on analysis of attentive walk-aggregating GNNs got accepted to Transactions on Machine Learning Research (TMLR) journal</td></tr>
 <tr><td><b>Jul 2022:</b></td><td> I attended NAACL 2022 in Seattle, WA to present our paper on multi-sentence inference</td></tr>
