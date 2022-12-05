@@ -7,7 +7,7 @@ seo:
   title: Siddhant Garg
 ---
 
-<a href="mailto:sgarg33@wisc.edu">Email</a> / 
+<a href="mailto:sidgarg@amazon.com">Email</a> / 
 <a href="https://twitter.com/sid7954">Twitter</a> / <a href="https://scholar.google.com/citations?user=V02t618AAAAJ&hl=en&oi=ao">Google Scholar</a> / <a href="https://www.semanticscholar.org/author/Siddhant-Garg/2295877">Semantic Scholar</a> <br />
 
 I am an <a href="https://www.amazon.science/">Applied Scientist II</a> at Amazon working in the Alexa AI Search team on Question Answering systems. My current research interests are towards improving answer ranking and answer generation models for Open Domain Question Answering. Before this, I graduated from the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a> with a Masters in <a href="https://www.cs.wisc.edu/">Computer Science</a> in May 2020. I completed my <a href="https://minds.wisconsin.edu/bitstream/handle/1793/80196/TR1862%20Siddhant%20Garg.pdf?sequence=1&isAllowed=y">Masters Thesis</a> under the guidance of <a href="http://pages.cs.wisc.edu/~yliang/">Prof. Yingyu Liang</a> on representation learning paradigms and their application to text classification. Prior to this, I completed my Bachelors in <a href="https://www.cse.iitb.ac.in/">Computer Science and Engineering</a> from <a href="https://www.iitb.ac.in/">IIT Bombay</a> in August 2018 where I was advised by <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a>.
