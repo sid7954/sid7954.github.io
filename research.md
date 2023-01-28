@@ -19,7 +19,7 @@ Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 #### [Paragraph-based Transformer Pretraining for Multi-Sentence Inference](){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **NAACL 2022** <br />
-[[Paper]](https://arxiv.org/abs/2205.01228){:target="_blank"}
+[[Paper]](https://arxiv.org/abs/2205.01228){:target="_blank"} [[Code]](https://github.com/amazon-science/wqa-multi-sentence-inference){:target="_blank"} <br />
 
 #### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
 **Siddhant Garg**, Alessandro Moschitti <br />
@@ -79,6 +79,19 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
 **Transactions on Machine Learning Research (TMLR) 2022** <br />
 [[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
+
+
+### Under Submission
+
+#### [Learning Answer Generation using Supervision from Automatic Question Answering Evaluators](){:target="_blank"}
+Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
+
+#### [Automatic Question Answering Evaluation using Multiple Positive and Negative References](){:target="_blank"}
+Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
+
+#### [Context-Aware Transformer Pre-Training for Answer Sentence Selection](){:target="_blank"}
+Luca Di Liello, **Siddhant Garg**, Alessandro Moschitti <br />
+
 
 ### Pre-Prints
 
