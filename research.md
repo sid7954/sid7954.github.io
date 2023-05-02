@@ -5,6 +5,16 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [Learning Answer Generation using Supervision from Automatic Question Answering Evaluators](){:target="_blank"}
+Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
+**ACL 2023** <br />
+Camera ready coming soon <br />
+
+#### [Context-Aware Transformer Pre-Training for Answer Sentence Selection](){:target="_blank"}
+Luca Di Liello, **Siddhant Garg**, Alessandro Moschitti <br />
+**ACL 2023** <br />
+[[Paper]](https://openreview.net/forum?id=LwNzLvV0ri){:target="_blank"} <br />
+
 #### [Knowledge Transfer from Answer Ranking to Answer Generation](){:target="_blank"}
 Matteo Gabburo, Rik Koncel-Kedziorski, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **EMNLP 2022** <br />
@@ -83,15 +93,8 @@ Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br
 
 ### Under Submission
 
-#### [Learning Answer Generation using Supervision from Automatic Question Answering Evaluators](){:target="_blank"}
-Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
-
 #### [Automatic Question Answering Evaluation using Multiple Positive and Negative References](){:target="_blank"}
 Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
-
-#### [Context-Aware Transformer Pre-Training for Answer Sentence Selection](){:target="_blank"}
-Luca Di Liello, **Siddhant Garg**, Alessandro Moschitti <br />
-
 
 ### Pre-Prints
 
@@ -129,6 +132,7 @@ Served as a reviewer for the following journals in the year: <br />
 **2021:** JAIR <br />
 
 Served as a reviewer for the following conferences: <br />
+**2023:** ICLR, ICML, ACL, NeurIPS, EMNLP <br />
 **2022:** ICLR, ACL, NAACL, NeurIPS, EMNLP <br />
 **2021:** AAAI , NAACL, ICML (Top 10% of Reviewers) , ACL (Outstanding Reviewer), SIGIR, EMNLP, NeurIPS <br />
 **2020:** AAAI, ACL , ESANN, EMNLP (Outstanding Reviewer) , NeurIPS (Top 10% of Reviewers) <br />
