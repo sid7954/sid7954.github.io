@@ -8,7 +8,7 @@ permalink: /research/
 #### [Learning Answer Generation using Supervision from Automatic Question Answering Evaluators](){:target="_blank"}
 Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
 **ACL 2023** <br />
-Camera ready coming soon <br />
+[[Slides]](https://drive.google.com/file/d/1-4A4X5aNk3LURCd7IcOoXJKAdSIqb47-/view?usp=share_link){:target="_blank"} <br />
 
 #### [Context-Aware Transformer Pre-Training for Answer Sentence Selection](){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Alessandro Moschitti <br />
@@ -18,18 +18,18 @@ Luca Di Liello, **Siddhant Garg**, Alessandro Moschitti <br />
 #### [Knowledge Transfer from Answer Ranking to Answer Generation](){:target="_blank"}
 Matteo Gabburo, Rik Koncel-Kedziorski, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **EMNLP 2022** <br />
-[[Paper]](http://arxiv.org/abs/2210.12865){:target="_blank"} <br />
+[[Paper]](http://arxiv.org/abs/2210.12865){:target="_blank"} [[Poster]](https://docs.google.com/presentation/d/1kTiZF1LIsWBYgVeO7IphVwxy0z26ZVFs/edit?usp=share_link&ouid=104280741588025907229&rtpof=true&sd=true){:target="_blank"} <br />
 
 
 #### [Pre-training Transformer Models with Sentence-Level Objectives for Answer Sentence Selection](https://arxiv.org/abs/2205.10455){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **EMNLP 2022** <br />
-[[Paper]](https://arxiv.org/abs/2205.10455){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2205.10455){:target="_blank"} [[Poster]](https://docs.google.com/presentation/d/1Pstxlos33CoX6LgUlbzx9CDKFbQU8M9e/edit?usp=share_link&ouid=104280741588025907229&rtpof=true&sd=true){:target="_blank"} <br />
 
 #### [Paragraph-based Transformer Pretraining for Multi-Sentence Inference](){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
 **NAACL 2022** <br />
-[[Paper]](https://arxiv.org/abs/2205.01228){:target="_blank"} [[Code]](https://github.com/amazon-science/wqa-multi-sentence-inference){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2205.01228){:target="_blank"} [[Code]](https://github.com/amazon-science/wqa-multi-sentence-inference){:target="_blank"} [[Poster]](https://docs.google.com/presentation/d/1z7jAf8YZCoMMM4HE3MORysXCbdMOL8Bj/edit?usp=share_link&ouid=104280741588025907229&rtpof=true&sd=true){:target="_blank"} <br />
 
 #### [Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering](){:target="_blank"}
 **Siddhant Garg**, Alessandro Moschitti <br />
@@ -129,7 +129,7 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 
 ### Academic Service
 Served as a reviewer for the following journals in the year: <br />
-**2021:** JAIR <br />
+**2021:** JAIR, IEEE TNNLS <br />
 
 Served as a reviewer for the following conferences: <br />
 **2023:** ICLR, ICML, ACL, NeurIPS, EMNLP <br />
