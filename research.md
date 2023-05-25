@@ -8,12 +8,12 @@ permalink: /research/
 #### [Learning Answer Generation using Supervision from Automatic Question Answering Evaluators](){:target="_blank"}
 Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
 **ACL 2023** <br />
-[[Slides]](https://drive.google.com/file/d/1-4A4X5aNk3LURCd7IcOoXJKAdSIqb47-/view?usp=share_link){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2305.15344){:target="_blank"} [[Slides]](https://drive.google.com/file/d/1-4A4X5aNk3LURCd7IcOoXJKAdSIqb47-/view?usp=share_link){:target="_blank"} <br />
 
 #### [Context-Aware Transformer Pre-Training for Answer Sentence Selection](){:target="_blank"}
 Luca Di Liello, **Siddhant Garg**, Alessandro Moschitti <br />
 **ACL 2023** <br />
-[[Paper]](https://openreview.net/forum?id=LwNzLvV0ri){:target="_blank"} <br />
+[[Paper]](https://arxiv.org/abs/2305.15358){:target="_blank"} <br />
 
 #### [Knowledge Transfer from Answer Ranking to Answer Generation](){:target="_blank"}
 Matteo Gabburo, Rik Koncel-Kedziorski, **Siddhant Garg**, Luca Soldaini, Alessandro Moschitti <br />
