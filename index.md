@@ -18,7 +18,7 @@ I am an <a href="https://www.amazon.science/">Applied Scientist II</a> at Amazon
 <col width="100px">
 <col width="650px">
 
-<tr><td><b>May 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2305.15344">paper on LLM-based answer generation using feedback from automatic QA evaluators got accepted at ACL 2023.</td></tr>
+<tr><td><b>May 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2305.15344">paper</a> on LLM-based answer generation using feedback from automatic QA evaluators got accepted at ACL 2023.</td></tr>
 <tr><td><b>May 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2305.15358">paper</a> on pre-training transformers for contextual answer selection got accepted at ACL 2023.</td></tr>
 <tr><td><b>Dec 2022:</b></td><td> I attended EMNLP 2022 in Abu Dhabi, UAE to present two papers on pre-training and answer generation</td></tr>
 <tr><td><b>Oct 2022:</b></td><td> Our <a href="http://arxiv.org/abs/2210.12865">paper</a> on knowledge transfer from answer ranking to answer generation models got accepted at EMNLP 2022</td></tr>
