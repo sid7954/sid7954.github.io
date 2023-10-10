@@ -18,6 +18,7 @@ I am a <a href="https://research.facebook.com/">Research Engineer</a> at Meta Re
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Oct 2023:</b></td><td> I joined Meta as a Research Engineer working  in the Smart Glasses Language AI team</td></tr>
 <tr><td><b>Sep 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2309.12250">paper</a> on automatic QA evaluation of LLM-generated answers got accepted at IJCNLP-AACL 2023 as an oral presentation</td></tr>
 <tr><td><b>Jun 2023:</b></td><td> I am serving as an Area Chair in the Question Answering track for EMNLP 2023</td></tr>
 <tr><td><b>May 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2305.15344">paper</a> on LLM-based answer generation using feedback from automatic QA evaluators got accepted at ACL 2023</td></tr>
@@ -25,6 +26,7 @@ I am a <a href="https://research.facebook.com/">Research Engineer</a> at Meta Re
 <tr><td><b>Dec 2022:</b></td><td> I attended EMNLP 2022 in Abu Dhabi, UAE to present two papers on pre-training and answer generation</td></tr>
 <tr><td><b>Oct 2022:</b></td><td> Our <a href="http://arxiv.org/abs/2210.12865">paper</a> on knowledge transfer from answer ranking to answer generation models got accepted at EMNLP 2022</td></tr>
 <tr><td><b>Oct 2022:</b></td><td> Our <a href="https://arxiv.org/abs/2205.10455">paper</a> on pre-training transformers by exploiting document structure for answer selection got accepted at EMNLP 2022</td></tr>
+<tr><td><b>Jul 2022:</b></td><td> I got promoted to Applied Scientist II at Amazon Alexa AI</td></tr>
 <tr><td><b>Jul 2022:</b></td><td> Our <a href="https://arxiv.org/abs/2110.02667">paper</a> on analysis of attentive walk-aggregating GNNs got accepted to Transactions on Machine Learning Research (TMLR) journal</td></tr>
 <tr><td><b>Jul 2022:</b></td><td> I attended NAACL 2022 in Seattle, WA to present our paper on multi-sentence inference</td></tr>
 <tr><td><b>May 2022:</b></td><td> I attended ACL 2022 in Dublin, Ireland</td></tr>
