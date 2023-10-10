@@ -5,6 +5,11 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [SQUARE: Automatic Question Answering Evaluation using Multiple Positive and Negative References](){:target="_blank"}
+Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
+**IJCNLP-AACL 2023** (<span style="color:red">*Oral Presentation*</span>)<br />
+[[Paper]](https://arxiv.org/abs/2309.12250){:target="_blank"} <br />
+
 #### [Learning Answer Generation using Supervision from Automatic Question Answering Evaluators](){:target="_blank"}
 Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
 **ACL 2023** <br />
@@ -128,6 +133,9 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 [Fall 2015] BB101: Introduction to Biology, Soumyo Mukherjee, IIT Bombay <br />
 
 ### Academic Service
+Served as an Area Chair (AC) for the following conferences: <br />
+**2023:** EMNLP (Question Answerin Track) <br />
+
 Served as a reviewer for the following journals in the year: <br />
 **2021:** JAIR, IEEE TNNLS <br />
 
