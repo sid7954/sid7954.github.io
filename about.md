@@ -5,7 +5,10 @@ permalink: /about/
 ---
 ### About Me
 
-I am an Applied Scientist II at Amazon working in the Alexa AI Search team on open-domain Question Answering systems in the Bay Area, CA. I joined Amazon in June, 2020 after graduating from the University of Wisconsin Madison in May, 2020.
+
+I am a Senior Research Engineer at Meta Reality Labs working in the Smart Glasses Language AI team. I joined Meta in October, 2023. My current research interests revolve around the training and alignment of large language models (LLMs) for downstream generative tasks like Question Answering. 
+
+Before this, I was working as an Applied Scientist II at Amazon Alexa AI on LLMs and Question Answering systems. My work there was focussed towards improving answer ranking and answer generation models for Open Domain Question Answering, and building automatic Question Answering evaluation systems. I joined Amazon in June, 2020 after graduating from the University of Wisconsin Madison in May, 2020.
 
 I obtained my Masters in Computer Science at the University of Wisconsin-Madison where I was guided by Prof. Yingyu Liang on Natural Language Processing. Specifically, I worked on Transfer Learning and Adversarial NLP.
 
