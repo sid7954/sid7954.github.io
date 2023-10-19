@@ -134,6 +134,7 @@ Bachelor's Thesis, IIT Bombay, **2018** <br />
 
 ### Academic Service
 Served as an Area Chair (AC) for the following conferences: <br />
+**2024:** EACL (Question Answerin Track) <br />
 **2023:** EMNLP (Question Answerin Track) <br />
 
 Served as a reviewer for the following journals in the year: <br />
