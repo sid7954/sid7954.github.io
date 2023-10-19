@@ -18,6 +18,7 @@ I am a <a href="https://research.facebook.com/">Senior Research Engineer</a> at 
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Oct 2023:</b></td><td> I am serving as an Area Chair in the Question Answering track for EACL 2024 (ARR Action Editor)</td></tr>
 <tr><td><b>Oct 2023:</b></td><td> I joined Meta as a Senior Research Engineer working  in the Smart Glasses Language AI team</td></tr>
 <tr><td><b>Sep 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2309.12250">paper</a> on automatic QA evaluation of LLM-generated answers got accepted at IJCNLP-AACL 2023 as an oral presentation</td></tr>
 <tr><td><b>Jun 2023:</b></td><td> I am serving as an Area Chair in the Question Answering track for EMNLP 2023</td></tr>
