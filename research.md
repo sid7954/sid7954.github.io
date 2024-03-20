@@ -5,6 +5,16 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [Towards Improved Multi-Source Attribution for Long-Form Answer Generation](){:target="_blank"}
+Nilay Patel, Shivashankar Subramanian, **Siddhant Garg**, Pratyay Banerjee, Amita Misra <br />
+**NAACL 2024** <br />
+[[Paper]](){:target="_blank"} <br />
+
+#### [ProMISe: A Proactive Multi-turn Dialogue Dataset for Information-seeking Intent Resolution](){:target="_blank"}
+Yash Butala, **Siddhant Garg**, Pratyay Banerjee, Amita Misra <br />
+**EACL 2024 Findings** <br />
+[[Paper]](https://aclanthology.org/2024.findings-eacl.124/){:target="_blank"} <br />
+
 #### [SQUARE: Automatic Question Answering Evaluation using Multiple Positive and Negative References](){:target="_blank"}
 Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
 **IJCNLP-AACL 2023** (<span style="color:red">*Oral Presentation*</span>)<br />
@@ -98,8 +108,8 @@ Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br
 
 ### Under Submission
 
-#### [Automatic Question Answering Evaluation using Multiple Positive and Negative References](){:target="_blank"}
-Matteo Gabburo, **Siddhant Garg**, Rik Koncel-Kedziorski, Alessandro Moschitti <br />
+#### [Measuring Retrieval Complexity in Question Answering Systems](){:target="_blank"}
+Matteo Gabburo, Nicolaas Jedema, **Siddhant Garg**, Leonardo Ribeiro, Alessandro Moschitti <br />
 
 ### Pre-Prints
 
@@ -141,6 +151,7 @@ Served as a reviewer for the following journals in the year: <br />
 **2021:** JAIR, IEEE TNNLS <br />
 
 Served as a reviewer for the following conferences: <br />
+**2024:** NAACL <br />
 **2023:** ICLR, ICML, ACL, NeurIPS, EMNLP <br />
 **2022:** ICLR, ACL, NAACL, NeurIPS, EMNLP <br />
 **2021:** AAAI , NAACL, ICML (Top 10% of Reviewers) , ACL (Outstanding Reviewer), SIGIR, EMNLP, NeurIPS <br />
