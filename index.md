@@ -18,6 +18,8 @@ I am a <a href="https://research.facebook.com/">Senior Research Engineer</a> at 
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Mar 2024:</b></td><td> Our paper on multi-source attribution for long form LLM-generated responses got accepted at NAACL 2024. Preprint coming soon.</td></tr>
+<tr><td><b>Jan 2024:</b></td><td> Our <a href="https://aclanthology.org/2024.findings-eacl.124/">paper</a> on LLM-based proactive suggested QA for information seeking intent resolution got accepted to the Findings of EACL 2024</td></tr>
 <tr><td><b>Oct 2023:</b></td><td> I am serving as an Area Chair in the Question Answering track for EACL 2024 (ARR Action Editor)</td></tr>
 <tr><td><b>Oct 2023:</b></td><td> I joined Meta as a Senior Research Engineer working  in the Smart Glasses Language AI team</td></tr>
 <tr><td><b>Sep 2023:</b></td><td> Our <a href="https://arxiv.org/abs/2309.12250">paper</a> on automatic QA evaluation of LLM-generated answers got accepted at IJCNLP-AACL 2023 as an oral presentation</td></tr>
