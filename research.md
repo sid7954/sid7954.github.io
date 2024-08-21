@@ -5,10 +5,15 @@ permalink: /research/
 ---
 ### Conference Publications
 
+#### [Measuring Retrieval Complexity in Question Answering Systems](){:target="_blank"}
+Matteo Gabburo, Nicolaas Jedema, **Siddhant Garg**, Leonardo Ribeiro, Alessandro Moschitti <br />
+**ACL 2024 Findings** <br />
+[[Paper]](https://arxiv.org/pdf/2406.03592){:target="_blank"} <br />
+
 #### [Towards Improved Multi-Source Attribution for Long-Form Answer Generation](){:target="_blank"}
 Nilay Patel, Shivashankar Subramanian, **Siddhant Garg**, Pratyay Banerjee, Amita Misra <br />
 **NAACL 2024** <br />
-[[Paper]](){:target="_blank"} <br />
+[[Paper]](https://aclanthology.org/2024.naacl-long.216.pdf){:target="_blank"} <br />
 
 #### [ProMISe: A Proactive Multi-turn Dialogue Dataset for Information-seeking Intent Resolution](){:target="_blank"}
 Yash Butala, **Siddhant Garg**, Pratyay Banerjee, Amita Misra <br />
@@ -104,12 +109,6 @@ Shiv Shankar\*, **Siddhant Garg\***, Sunita Sarawagi <br />
 Mehmet F. Demirel, Shengchao Liu, **Siddhant Garg**, Yingyu Liang , **2021** <br />
 **Transactions on Machine Learning Research (TMLR) 2022** <br />
 [[Paper]](https://arxiv.org/pdf/2110.02667.pdf){:target="_blank"}  [[Code]](https://github.com/mehmetfdemirel/aware){:target="_blank"} <br />
-
-
-### Under Submission
-
-#### [Measuring Retrieval Complexity in Question Answering Systems](){:target="_blank"}
-Matteo Gabburo, Nicolaas Jedema, **Siddhant Garg**, Leonardo Ribeiro, Alessandro Moschitti <br />
 
 ### Pre-Prints
 
